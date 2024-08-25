@@ -1,0 +1,10 @@
+nodes:
+  indexer:
+    - name: cyb3rhq-indexer
+      ip: 127.0.0.1
+  server:
+    - name: cyb3rhq-server
+      ip: 127.0.0.1
+  dashboard:
+    - name: cyb3rhq-dashboard
+      ip: 127.0.0.1
